@@ -1,2 +1,2 @@
 # rhine-ac-simulate
- Simulating RhineAC (Atrificial Consciousness) through existing LLM
+ Simulating RhineAC (Artificial Consciousness) through existing LLM
