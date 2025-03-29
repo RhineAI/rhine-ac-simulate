@@ -21,7 +21,6 @@ model = AutoModelForCausalLM.from_pretrained(
     model_path,
     torch_dtype=torch.bfloat16,
     device_map='cuda:0',
-    low_cpu_mem_usage=True
 )
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 
